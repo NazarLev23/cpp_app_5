@@ -2,11 +2,11 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="main">
-      <UniqueIdentifier>{7aa5fcf4-225b-43ce-8980-ec645f0ceb9b}</UniqueIdentifier>
+      <UniqueIdentifier>{c3502d0c-f3fc-4b25-b2f2-bba23ba6565e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="main1.cpp">
       <Filter>main</Filter>
     </ClCompile>
   </ItemGroup>
